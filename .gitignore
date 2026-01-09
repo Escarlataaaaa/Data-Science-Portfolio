@@ -1,0 +1,12 @@
+# Large data files (keep local only)
+Fall 2025 UAV/motiondata_sample.json
+Fall 2025 UAV/*.geojson
+
+# Common large artifacts
+*.bag
+*.mp4
+*.mov
+*.zip
+*.7z
+*.csv
+
