@@ -14,6 +14,11 @@ It serves as a record of my technical work, problem-solving approach, and applie
 - **[Automated Driving System Demonstration and Safety Evaluation Metrics](Fall%202025%20UAV/)**  
   Research work analyzing vehicle sensor and trajectory data to study braking behavior and movement patterns, with an emphasis on data validation and preprocessing.
 
+- **Cafe Sales Data Cleaning & Exploratory Analysis(Cafe-Sales-Analysis/)**
+
+  End-to-end data cleaning and exploratory data analysis on a messy retail transaction dataset. Focused on handling missing values using domain-informed logic, validating price–quantity relationships, and uncovering sales patterns across product categories and order types.
+
+
 ## Tools & Technologies
 
 - **Languages:** Python
